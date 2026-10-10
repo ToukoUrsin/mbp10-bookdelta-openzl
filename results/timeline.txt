@@ -1,0 +1,11 @@
+start 2026-10-10T21:54:48Z
+libs=/tmp/ozb/libopenzl.a /tmp/ozb/zstd_build/lib/libzstd.a /tmp/ozb/lz4_build/liblz4.a
+built 2026-10-10T21:55:56Z
+candidate encoded 2026-10-10T22:03:17Z
+stock encoded 2026-10-10T22:07:27Z
+candidate check rc=0
+controls rc=0
+stock check rc=0
+checked 2026-10-10T22:19:44Z
+zstd19 2026-10-10T22:33:55Z
+end 2026-10-10T22:40:16Z

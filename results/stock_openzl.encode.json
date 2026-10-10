@@ -1,0 +1,11 @@
+{
+  "format": "MBP10O1",
+  "candidate": false,
+  "archive_bytes": 201014822,
+  "archive_sha256": "36457b5e4bea91801e3911c22f52c58d2affcd021cfc66277c93f8284a15f347",
+  "rows": 12104179,
+  "frames": 185,
+  "source_row_bytes": 5987026927,
+  "source_rows_sha256": "89cda85f97e5e9acb7052fe7688ba16928c47ffd360d36fa107cfbf17029f19e",
+  "seconds": 250.36907815933228
+}

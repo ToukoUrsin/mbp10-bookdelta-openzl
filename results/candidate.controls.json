@@ -1,0 +1,6 @@
+{
+  "truncation": true,
+  "append": true,
+  "header": true,
+  "payload": true
+}

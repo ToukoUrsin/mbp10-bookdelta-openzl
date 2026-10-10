@@ -1,0 +1,13 @@
+{
+  "archive": "stock_openzl.bin",
+  "rows": 12104179,
+  "frames": 185,
+  "source_row_bytes": 5987026927,
+  "source_rows_sha256": "89cda85f97e5e9acb7052fe7688ba16928c47ffd360d36fa107cfbf17029f19e",
+  "archive_sha256": "36457b5e4bea91801e3911c22f52c58d2affcd021cfc66277c93f8284a15f347",
+  "complete": true,
+  "seconds": 149.72230219841003,
+  "expected_source_row_bytes": 5987026927,
+  "expected_source_rows_sha256": "89cda85f97e5e9acb7052fe7688ba16928c47ffd360d36fa107cfbf17029f19e",
+  "source_match": true
+}
