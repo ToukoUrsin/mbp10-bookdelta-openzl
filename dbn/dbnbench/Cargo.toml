@@ -1,0 +1,14 @@
+[package]
+name = "dbnbench"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dbn = "=0.71.0"
+zstd = "0.14"
+time = "0.3"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

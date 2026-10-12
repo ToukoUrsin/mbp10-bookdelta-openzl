@@ -1,0 +1,4 @@
+-rw-r--r-- 1 daytona daytona 4454340704 Oct 12 20:32 /tmp/w/es.dbn
+-rw-r--r-- 1 daytona daytona  235057218 Oct 12 20:48 /tmp/w/es.dbn.z19
+-rw-r--r-- 1 daytona daytona  129798855 Oct 12 20:37 /tmp/w/es.dbnzl
+-rw-r--r-- 1 daytona daytona  310152253 Oct 12 20:32 /tmp/w/es.dbn.zst

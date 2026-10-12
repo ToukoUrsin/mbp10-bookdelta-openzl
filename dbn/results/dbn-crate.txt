@@ -1,0 +1,4 @@
+dbnbench v0.1.0 (/home/daytona/w/dbnbench)
+├── dbn v0.71.0
+├── time v0.3.55
+└── zstd v0.14.2

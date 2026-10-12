@@ -24,6 +24,12 @@ Both MBP10O1 archives were decoded back to the exact source rows (row SHA-256
 rejects truncation, append, header and payload mutations (`results/candidate.controls.json`).
 An earlier run with a different bridge build gave 131,122,312 vs 199,472,577 bytes (34.27%).
 
+## Native DBN comparison
+
+On the same rows as native DBN `Mbp10Msg` records, the archive is 129.8 MB, against 310.2 MB for DBN+zstd
+and 235.1 MB for DBN+zstd -19. Decoding is about 3× slower than DBN+zstd (2.15 vs 6.54 M rows/s,
+single core). Details and scripts: [`dbn/`](dbn/README.md).
+
 ## Transform
 
 Per 65,536-row frame: zigzag residual of `ts_recv - ts_event`; per-instrument, per-column
